@@ -4,3 +4,4 @@ Young's modulus is named after Thomas Young,19th century ,British scientist. In 
 
 If a wire of length L and area of cross-section 'a' be stretched by a force F and if a change (increase) of length 'l' is produced, then
 
+$$ Young's Modulus= /frac{Normal stress}{Longitudinal strain} $$
