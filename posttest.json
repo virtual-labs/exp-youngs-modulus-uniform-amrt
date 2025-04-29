@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Within the limit of elasticity, strain produced is directly proportional to stress applied, by",
+      "answers": {
+        "a": "Pascal's law",
+        "b": "Hook's law",
+        "c": "Planck's law",
+        "d": "Newton's law"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Nearest approach to a perfectly plastic material",
+      "answers": {
+        "a": "putty",
+        "b": "Quartz",
+        "c": "PVC",
+        "d": "Polystyrene"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
