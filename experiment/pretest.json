@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "	Young's modulus is",
+      "question": "Young's modulus is",
       "answers": {
         "a": "volume strain / volume stress",
         "b": "longitudinal stress/longitudinal strain",
