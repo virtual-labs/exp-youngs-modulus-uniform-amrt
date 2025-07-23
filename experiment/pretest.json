@@ -16,10 +16,10 @@
     {
       "question": "What is the unit of Young's modulus?",
       "answers": {
-        "a": "$$Nm^{-2} $$",
-        "b": "$$Nm^{-3} $$",
-        "c": "$$Nm $$",
-        "d": "$$Nm^{2} $$"
+        "a": "$Nm^{-2} $",
+        "b": "$Nm^{-3} $",
+        "c": "$Nm $",
+        "d": "$Nm^{2} $"
       },
       
       "correctAnswer": "a",
