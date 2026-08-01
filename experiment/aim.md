@@ -1,3 +1,3 @@
-### Aim of the experiment
+## Aim of the experiment
 
-To find  the Young's modulus of the given material bar by uniform bending using pin and microscope method.
+To determine the Young's Modulus (Y) of the given material by the method of uniform bending.
