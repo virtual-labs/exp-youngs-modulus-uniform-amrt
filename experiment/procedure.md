@@ -38,15 +38,15 @@ Least count of microscope = 1 m.s.d/n = 1/1000 = 0.001 cm
 
 Thickness of the material  bar "d" = ............mm
 Breadth of the material bar "b" = ............. cm
-Mean value of $$\frac{pl^{2}}{e} $$  = ..........m
+Mean value of $\frac{pl^{2}}{e}$  = ..........m
 Load applied for elevation…e = .............. m
 
-Young's modulus of the material  bar, $$Y=\frac{3mgpl^{2}}{2bd^{3}e} $$ = ........... $$Nm^{-2}$$
+Young's modulus of the material  bar, $$Y=\frac{3mgpl^{2}}{2bd^{3}e}$$ = ........... $Nm^{-2}$
 
 Example: For uniform bending for wood,   p=0.5m, m= 0.02kg, g=9.8ms-2, pl2/e = 2.165 m2, b=2.956 x 10-2m,d=50693 x 10-3m.
 
 Y = 1.1 x 1010 Nm<sup>-2</sup>
 
 ## Result
-1.Young's modulus of the given material using uniform bending  method= ........... $$Nm^{-2}$$
+Young's modulus of the given material using uniform bending  method= ........... $Nm^{-2}$
 
