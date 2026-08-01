@@ -1,20 +1,28 @@
 ## Procedure
 
-### Apparatus
+## Apparatus
+Uniform bending apparatus with microscope, material bar, knife edges, weight hangers, and measuring scales.
 
-Pin  and  Microscope arrangement, Scale ,Vernier calipers, Screw gauge, Weight hanger, Material bar or rod.
+## Procedure for Simulation
 
-### Procedure for Simulation
-<ol>
- <li>Select the environment and material  for doing experiment.</li>
- <li>Adjust length, breadth and thickness of the material bar using sliders on the right side of the simulator .</li>
- <li>Fix the distance between knife edges and weight hangers using sliders.</li>
- <li>Focussing the microscope using focussing knob and adjusting  the tip of the pin coincides with the point of intersection of the cross wires using left  and top  knobs on microscope respectively.</li>
- <li>Readings are noted using the microscope reading for 0g. Zoomed part of microscope scale is available by clicking the centre part of the apparatus in the simulator. Total reading of microsope is MSR+VSR*LC. MSR is the value of main scale reading of the microsope which is coinciding exacle with the zero of  vernier scale. One of the division in the vernier scale coincides exactly with the main scale is the value of VSR. LC is the least count.</li>
- <li>Weights are added one by one say 50g, then pin moves downwards while viewing through microscope. Again adjust the pin such that it coincides exactly with the cross wire.</li>
- <li>Note the microsope reading and repeat 7 and 8 by increasing the weights.</li>
- <li>The readings are tabulated and  Y is determined using equation (3).</li>
-</ol>
+1. Select the **Environment** from the **Select Environment** drop-down menu.
+2. Select the **Material** of the bar from the **Select Material** menu.
+3. Set the following parameters using the sliders:
+   - Mass of the weight hanger
+   - Breadth of the bar (b)
+   - Thickness of the bar (d)
+   - Distance between the weight hangers
+   - Distance between the knife edges
+4. Note the initial microscope reading before adding any load (0 g).
+5. Add weights to the weight hangers one at a time and observe the downward bending of the bar.
+6. After each load is applied, note the new microscope reading. Use the magnified microscope view, if required, to read the scale accurately.
+7. Record the load and the corresponding microscope reading for each observation.
+8. Repeat the observations for all the required loads.
+9. Tabulate the recorded readings in the observation table.
+10. Calculate the Young's Modulus (**Y**) of the selected material using **Equation (3)**.
+11. Click **Result** to verify the Young's Modulus of the selected material.
+12. Click **Reset** to restore the simulator to its default settings and repeat the experiment with different materials or parameters.
+
 
 ## Procedure for Real lab
 ### Uniform Bending
